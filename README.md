@@ -5,12 +5,14 @@
 <br>
 </h1>
 
-<p align="center">Projeto de site para salão de beleza, desenvolvido durante o treinamento NLW/Together da @rocketseat-education.</p>
-<br>
-<p align="center"> Acesse a versão de teste em produção através do link: 
 <div align="center">
 
-[Clique aqui](https://letmeask-4b7b8.firebaseapp.com/)
+Projeto de site para salão de beleza, desenvolvido durante o treinamento NLW/Together da [Rocketseat-Education](https://github.com/rocketseat-education).
+
+<br>
+<p align="center"> Acesse a versão de teste em produção através do link:
+
+[Clique aqui](https://beatysalon.vercel.app/)
 
 </div>
 </p>
